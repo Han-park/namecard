@@ -1,0 +1,17 @@
+.entire-field{
+  margin: 10px;
+  /* color: red; */
+}
+.footer{
+  color: #333;
+  font-size: 0.9rem;
+  padding: 8px;
+  border-top: 1px solid black;
+  position: fixed;
+  width: 100%;
+}
+
+.horizontal-rules{
+  color: red;
+  height: 3px !important;
+}
